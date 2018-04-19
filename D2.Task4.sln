@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SplicingScanResults.Service", "SplicingScanResults.Service\SplicingScanResults.Service.csproj", "{73024BEF-4203-47D8-B64C-EBF1D71BC688}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73024BEF-4203-47D8-B64C-EBF1D71BC688}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73024BEF-4203-47D8-B64C-EBF1D71BC688}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73024BEF-4203-47D8-B64C-EBF1D71BC688}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73024BEF-4203-47D8-B64C-EBF1D71BC688}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8091335A-3071-4874-A855-F53FDAF1029D}
+	EndGlobalSection
+EndGlobal
